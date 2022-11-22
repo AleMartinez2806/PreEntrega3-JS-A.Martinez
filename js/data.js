@@ -1,5 +1,5 @@
 let stockProductos = [
-    {id: 1, nombre: "T-Shirt Polonia", tipo: "T-Shirt", cantidad: 1, desc: "Remera casual de manga larga", precio: 990, talle: "S", img: 'assets/img/rem1.png'},
+    {id: 1, nombre: "T-Shirt Polonia", tipo: "T-Shirt", cantidad: 1, desc: "Remera casual de manga larga", precio: 990, talle: "S", img: './assets/img/rem1.png'},
     {id: 2, nombre: "T-Shirt Polonia", tipo: "T-Shirt", cantidad: 1, desc: "Remera casual de manga larga", precio: 990, talle: "M", img: '../assets/img/rem1.png'},
     {id: 3, nombre: "T-Shirt Polonia", tipo: "T-Shirt", cantidad: 1, desc: "Remera casual de manga larga", precio: 990, talle: "L", img: '../assets/img/rem1.png'},
     {id: 4, nombre: "T-Shirt Clasica", tipo: "T-Shirt", cantidad: 1, desc: "Remera casual de manga corta", precio: 890, talle: "S", img: '../assets/img/remera2.png'},
